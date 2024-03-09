@@ -6,5 +6,10 @@ namespace MES_TEST
         {
             InitializeComponent();
         }
+
+        private void HelloWorld()
+        {
+            return;
+        }
     }
 }
